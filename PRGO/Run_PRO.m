@@ -1,13 +1,14 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Partial Reinforcement Optimizer: An Evolutionary Optimization Algorithm %
-% version 1.0                                                             %
-% Authors:                                                               %
-% Ahmad Taheri **, Keyvan RahimiZadeh, Amin Beheshti, Jan Baumbach,       %
-% Ravipudi Venkata Rao, Seyedali Mirjalili, Amir H Gandomi                %
+% Binary plant rhizome growth-based optimization
+ algorithm:an efficient high-dimensional feature
+ selection approach %
+%                                                                         %
+% Authors:                                                                %
+%  Jin Zhang, Fu Yan, Jianqiang Yang                                      %
 %                                                                         %
 % ** E-mail:                                                              %
-%          Ahmad.taheri@uni-hamburg.de                                    %
-%          Ahmad.thr@gmail.com                                            %
+%          17678924479@163.com                                            %
+%          fyan3@gzu.edu.cn  
+%           18380957756@163.com
 %                                                                         %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc
